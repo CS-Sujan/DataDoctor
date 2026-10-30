@@ -1,0 +1,11 @@
+Emp ID,Name,Gender,Join Date,Salary,Bonus,City
+101,Alice S.,f,15/02/2023,"Rs. 55,000","₹ 5,000", Mumbai 
+102,Bob M.,female,2023-01-15,"₹ 62,000","Rs. 2,000",Delhi
+103,Charlie B.,MALE,2023.03.10,Rs 71000,3500,bangalore
+104,Diana P.,F,04-01-2023,"₹ 58,500","Rs 4,000", Mumbai
+105,Eve K.,m,2023/05/20,"Rs. 1,20,000","₹ 15,000",delhi
+106,Frank T.,male,18-Jun-2023,85000,8000,Bangalore
+107,Grace H.,Female,,"₹ 64,000","Rs. 1,500",Pune
+108,Harry P.,M,30/08/2023,Rs 72000,"₹ 6,000",pune
+109,Isha R.,f,2023.09.12,"Rs. 95,000","Rs. 7,500",Mumbai 
+110,Jack D.,man,25-Dec-2023,"₹ 51,000","₹ 3,000",DELHI

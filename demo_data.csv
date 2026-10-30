@@ -1,0 +1,13 @@
+Customer ID , Full Name ,Age,Join Date,Salary (USD),Department
+101,  Alice Smith ,25.0,2023-01-15,55000.0, Sales 
+102,Bob Jones,,15/02/2023,62000.0,Marketing
+103, Charlie Brown,45.0,2023.03.10,,sales
+104,Dana White ,31.0,2023-04-01,71000.0,IT
+105,,29.0,2023/05/20,58000.0,HR
+106, Frank Miller  ,195.0,2023-06-18,1200000.0,Sales
+107,Grace Hopper,34.0,,85000.0,
+108,Heidi Klum,40.0,2023-08-30,64000.0,Marketing
+109,Ivan Drago,,2023-09-12,72000.0,IT
+101,  Alice Smith ,25.0,2023-01-15,55000.0, Sales 
+110,Jack Sparrow,38.0,2023-11-05,95000.0,Engineering
+111,Kim Possible,22.0,2023-12-25,51000.0,hr
